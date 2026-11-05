@@ -6,3 +6,5 @@ Orange Juice
 Coffee
 Tea
 Chocolat
+pears
+cherries
